@@ -1,1 +1,3 @@
-Hallo dit is de readme
+De readme van de github
+
+interresante dingen
